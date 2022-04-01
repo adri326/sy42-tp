@@ -3,6 +3,10 @@
 My solutions to the assignements in the SY42 class.
 These were made using [`adri326/no-stm32cube`](https://github.com/adri326/no-stm32cube), see instructions there if you want to make heavy modifications to the code or are having trouble compiling it.
 
+Note that I only post here the assignements that were already due.
+For that reason, I'm fine with anyone re-using the code of these previous assignements in future assignements.
+The [license](LICENSE.txt) has to stick around, though.
+
 ## Installation
 
 Following is a summary of the packages you will need to install (on Arch Linux).
