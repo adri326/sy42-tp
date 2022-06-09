@@ -180,6 +180,6 @@ int main() {
     setup_usart();
 
     // blinky();
-    press_length();
-    // pwm();
+    // press_length();
+    pwm();
 }
